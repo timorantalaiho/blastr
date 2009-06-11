@@ -28,7 +28,7 @@ module Blastr
     
     USAGE_TEXT = <<EOS
 
-    Usage: blastr URL [revision]
+    Uzage: blastr URL [revision]
     
     The options are as follows:
     
